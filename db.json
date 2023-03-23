@@ -17,6 +17,12 @@
       "day": "rdjhtdyn",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "t1",
+      "day": "d1",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
